@@ -1,6 +1,6 @@
 # DT
 
-![image-20201211132740139](C:\Users\lenmonpower\AppData\Roaming\Typora\typora-user-images\image-20201211132740139.png)
+![error](https://github.com/lemonpower/test/blob/main/image/image-20201211132740139.png)
 
 * ALL-IN-ONE设计
 * 双路模拟量输入
