@@ -17,8 +17,7 @@
 
 ##### 12-16
 
-<img src="C:\Users\lenmonpower\AppData\Roaming\Typora\typora-user-images\image-20201216142013493.png" alt="image-20201216142013493" style="zoom:33%;" />
-
+![error](https://github.com/lemonpower/test/blob/main/image/image-20201216142013493.png)
 芯片无法烧录。检查BOOT0，BOOT1的电平，晶振，芯片，2.2uF电容的焊接情况都没有发现问题，最后对照之前的原理图，发现13脚没接3.3V。飞线解决。
 
 复位开关引脚接错导致MCU一直处于复位状态,焊接时调整复位开关方向，只焊了两脚，打胶加固。
